@@ -1,1 +1,0 @@
-console.log1("hello 2")
